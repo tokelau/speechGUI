@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>rnnoise/_kiss_fft_guts.h</file>
+        <file>rnnoise/arch.h</file>
+        <file>rnnoise/celt_lpc.c</file>
+        <file>rnnoise/celt_lpc.h</file>
+        <file>rnnoise/common.h</file>
+        <file>rnnoise/denoise.c</file>
+        <file>rnnoise/kiss_fft.c</file>
+        <file>rnnoise/kiss_fft.h</file>
+        <file>rnnoise/opus_types.h</file>
+        <file>rnnoise/pitch.c</file>
+        <file>rnnoise/pitch.h</file>
+        <file>rnnoise/rnn.c</file>
+        <file>rnnoise/rnn.h</file>
+        <file>rnnoise/rnn_data.c</file>
+        <file>rnnoise/rnn_data.h</file>
+        <file>rnnoise/rnnoise.h</file>
+        <file>rnnoise/tansig_table.h</file>
+        <file>main.cpp</file>
+        <file>noisedeleter.cpp</file>
+        <file>noisedeleter.h</file>
+        <file>texthandler.cpp</file>
+        <file>texthandler.h</file>
+        <file>qml/TextWork.qml</file>
+        <file>qml/VocabularyWork.qml</file>
+        <file>qml/MediaWork.qml</file>
+    </qresource>
+</RCC>
